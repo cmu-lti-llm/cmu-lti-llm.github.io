@@ -1,0 +1,47 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Hello World",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "url": "/general/2018/08/22/hello-world/"
+      },
+    
+  
+  
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Let's talk about LLMs!",
+    "excerpt": "\n",
+    "content": "Carnegie Mellon University’s Language Technologies Institute (CMU LTI) is excited to host a seminar exploring the world of Large Language Models (LLMs). Join us as we dive into the research, development, applications, ethics, and societal implications of these models.\n\nWe welcome attendees to engage with renowned experts, participate in thought-provoking discussions, and learn about the future of LLMs in academia, industry, and beyond. We will also host a hackathon for groups to explore and build an LLM-related idea.\n\nThis page will document talks presented at this seminar, as well as fundamental problems around large language models and progress made during the hackathon sessions.\n\nContents:\n\nStudying data contamination\nStudying multilingual capabilities\nFine-tuning vs. Prompting\nTransfer Capabilities\nHardware and Compute Optimization\nGeneralization\nEvaluation Metrics\nDistribution shifts\nLLMs as Tools for Scientific Discovery\nSelf-reflection in LLMs\nLet’s write a paper with GPT!\nLet’s build an open source Nat.dev\nHallucination in LLMs\nLLMs as Creative Tools\nTrickle-down Economics for Language Models\nPersonalization with Human Feedback\nGPT for CS Education\nInversed ChatGPT\nMeta-prompting\n",
+    "url": "/"
+  },
+  
+  {
+    "title": "Let's talk about LLMs!",
+    "excerpt": "\n",
+    "content": "Talk recordings will be posted here after the event. Please check back later! In the meantime, please check out the blog\n",
+    "url": "/talks/"
+  }
+  
+]
+
