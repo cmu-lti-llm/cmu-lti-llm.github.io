@@ -10,24 +10,26 @@ We welcome attendees to engage with renowned experts, participate in thought-pro
 
 This page will document talks presented at this seminar, as well as fundamental problems around large language models and progress made during the hackathon sessions. 
 
-### Contents:
+The topics below are intended to serve as inspiration during the hackathon, don't feel like you need to limit yourselves to these topics. Feel free to interpret these as you wish.
 
-##### [Studying data contamination]({{ site.baseurl }})
-##### [Studying multilingual capabilities]({{ site.baseurl }})
-##### [Fine-tuning vs. Prompting]({{ site.baseurl }})
-##### [Transfer Capabilities]({{ site.baseurl }})
-##### [Hardware and Compute Optimization]({{ site.baseurl }})
-##### [Generalization]({{ site.baseurl }})
-##### [Evaluation Metrics]({{ site.baseurl }})
-##### [Distribution shifts]({{ site.baseurl }})
-##### [LLMs as Tools for Scientific Discovery]({{ site.baseurl }})
-##### [Self-reflection in LLMs]({{ site.baseurl }})
-##### [Let's write a paper with GPT!]({{ site.baseurl }})
-##### [Let's build an open source Nat.dev]({{ site.baseurl }})
-##### [Hallucination in LLMs]({{ site.baseurl }})
-##### [LLMs as Creative Tools]({{ site.baseurl }})
-##### [Trickle-down Economics for Language Models]({{ site.baseurl }})
-##### [Personalization with Human Feedback]({{ site.baseurl }})
-##### [GPT for CS Education]({{ site.baseurl }})
-##### [Inversed ChatGPT]({{ site.baseurl }})
-##### [Meta-prompting]({{ site.baseurl }})
+### Hackathon ideas::
+
+##### Studying data contamination
+##### Studying multilingual capabilities
+##### Fine-tuning vs. Prompting 
+##### Transfer Capabilities 
+##### Hardware and Compute Optimization 
+##### Generalization 
+##### Evaluation Metrics 
+##### Distribution shifts 
+##### LLMs as Tools for Scientific Discovery 
+##### Self-reflection in LLMs 
+##### Let's write a paper with GPT! 
+##### Let's build an open source Nat.dev 
+##### Hallucination in LLMs 
+##### LLMs as Creative Tools 
+##### Trickle-down Economics for Language Models 
+##### Personalization with Human Feedback 
+##### GPT for CS Education 
+##### Inversed ChatGPT
+##### Meta-prompting 
