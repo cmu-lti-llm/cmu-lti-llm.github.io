@@ -4,8 +4,6 @@ feature_image: "../images/neon-light-ring.jpeg"
 feature_text: We are serious, it is all about LLMs
 ---
 
-# CMU LTI Seminar on Large Language Models!
-
 Carnegie Mellon University's Language Technologies Institute (CMU LTI) is excited to host a seminar exploring the world of Large Language Models (LLMs). Join us as we dive into the research, development, applications, ethics, and societal implications of these models.
 
 We welcome attendees to engage with renowned experts, participate in thought-provoking discussions, and learn about the future of LLMs in academia, industry, and beyond. We will also host a hackathon for groups to explore and build an LLM-related idea.
