@@ -4,13 +4,20 @@ feature_image: "../images/neon-light-ring.jpeg"
 feature_text: We are serious, it is all about LLMs
 ---
 
-Carnegie Mellon University's Language Technologies Institute (CMU LTI) is excited to host a seminar exploring the world of Large Language Models (LLMs). Join us as we dive into the research, development, applications, ethics, and societal implications of these models.
+Carnegie Mellon University's Language Technologies Institute (CMU LTI) is excited to host a seminar exploring the world
+of Large Language Models (LLMs). Join us as we dive into the research, development, applications, ethics, and societal
+implications of these models.
 
-We welcome attendees to engage with renowned experts, participate in thought-provoking discussions, and learn about the future of LLMs in academia, industry, and beyond. We will also host a hackathon for groups to explore and build an LLM-related idea.
+We welcome attendees to engage with renowned experts, participate in thought-provoking discussions, and learn about the
+future of LLMs in academia, industry, and beyond. We will also host a hackathon for groups to explore and build an
+LLM-related idea.
+
+[Event Page](https://lijuncheng16.wixsite.com/my-site)
 
 ## 📅 Schedule
 
 ### Day 1: Saturday (4/1/2023)
+
 - 9:00 - 9:30 AM: 🎫 Registration and Welcome 🤗
 - 9:30 - 10:45 AM: 🎤 Short Talks (Industry & Academia Experts)
   - 9:30 - 9:45 AM: Graham Neubig 🎓
@@ -47,9 +54,11 @@ We welcome attendees to engage with renowned experts, participate in thought-pro
 - Emma Strubell: Assistant Professor @ CMU LTI
 
 ## 🏢 Venue
+
 - Rashid Auditorum (GHC 4401)
-- Rashid Auditorium is located on the fourth floor of the Gates-Hillman Center. The easiest way to access this room is via the Forbes Avenue entrance to GHC.
-- [Building Map]([#](https://lti.cs.cmu.edu/phd/sites/default/files/GHC%20Maps.pdf))
+- Rashid Auditorium is located on the fourth floor of the Gates-Hillman Center. The easiest way to access this room is
+  via the Forbes Avenue entrance to GHC.
+- [Building Map](https://lti.cs.cmu.edu/phd/sites/default/files/GHC%20Maps.pdf)
 - 📍 Full Address: 5000 Forbes Ave, Pittsburgh, PA 15213
 
 
