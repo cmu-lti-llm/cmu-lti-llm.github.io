@@ -1,8 +1,9 @@
 ---
-title: Let's talk about LLMs!
+title: NO JOKE! Let's talk about LLMs!
 feature_image: "../images/neon-light-ring.jpeg"
-feature_text: 
+feature_text:
 ---
 
-Talk recordings is at [recordings](https://lijuncheng16.wixsite.com/my-site/recordings)
+Talk recordings can be found at [recordings](https://lijuncheng16.wixsite.com/my-site/recordings)
 
+Available Talks: Susan Zhang
