@@ -14,9 +14,12 @@ LLM-related idea.
 
 [Event Page](https://lijuncheng16.wixsite.com/my-site)
 
-[Gallery](https://lijuncheng16.wixsite.com/my-site/gallery)
+[Talk Recordings]({{ site.baseurl }}/talks)
 
-## 📅 Schedule
+[Gallery](https://lijuncheng16.wixsite.com/my-site/gallery)
+<details>
+
+<summary>## 📅 Schedule</summary>
 
 ### Day 1: Saturday (4/1/2023)
 
@@ -45,7 +48,10 @@ LLM-related idea.
 - 4:30 - 5:30 PM: 🎤 Presentations
 - 5:30 - 6:00 PM: 🎉 Closing remarks and prizes 🏆
 
-## 🎓 Speakers & Panelists
+</details>
+
+<details>
+<summary>## 🎓 Speakers & Panelists</summary>
 - Susan Zhang: Research Scientist @ Meta AI
 - Yoav Artzi: Associate Professor @ Cornell Tech
 - Hoda Heidari: Assistant Professor @ CMU MLD
@@ -54,8 +60,10 @@ LLM-related idea.
 - Melvin Johnson: Researcher @ Google
 - Graham Neubig: Associate Professor @ CMU LTI
 - Emma Strubell: Assistant Professor @ CMU LTI
+</details>
 
-## 🏢 Venue
+<details>
+<summary>## 🏢 Venue</summary>
 
 - Rashid Auditorum (GHC 4401)
 - Rashid Auditorium is located on the fourth floor of the Gates-Hillman Center. The easiest way to access this room is
@@ -63,6 +71,7 @@ LLM-related idea.
 - [Building Map](https://lti.cs.cmu.edu/phd/sites/default/files/GHC%20Maps.pdf)
 - 📍 Full Address: 5000 Forbes Ave, Pittsburgh, PA 15213
 
+</details>
 
 
 ### Hackathon ideas::
