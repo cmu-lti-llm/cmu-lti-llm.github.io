@@ -13,6 +13,7 @@ future of LLMs in academia, industry, and beyond. We will also host a hackathon 
 LLM-related idea.
 
 [Event Page](https://lijuncheng16.wixsite.com/my-site)
+
 [Gallery](https://lijuncheng16.wixsite.com/my-site/gallery)
 
 ## 📅 Schedule
