@@ -1,0 +1,92 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.feature-image {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+}
+
+.lead {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.button {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #3498db;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  background-color: #2980b9;
+}
+
+.links {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.details {
+  margin-bottom: 2rem;
+}
+
+.summary {
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.schedule-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.schedule-title {
+  display: inline;
+  margin: 0;
+}
+
+details {
+  margin-bottom: 1.5rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+summary {
+  background-color: #f8f8f8;
+  padding: 1rem;
+  font-size: 1.25rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+details[open] summary {
+  border-bottom: 1px solid #ccc;
+}
+
+details > *:not(summary) {
+  padding: 1rem;
+}
+
+h3 {
+  margin-bottom: 0.5rem;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
