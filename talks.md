@@ -6,4 +6,5 @@ feature_text:
 
 Available Talk Recordings:  
 [Susan Zhang](https://lijuncheng16.wixsite.com/my-site/recordings)  
-[Niket Tandon](https://vimeo.com/815932806). 
+  
+[Niket Tandon](https://vimeo.com/815932806)
