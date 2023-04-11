@@ -100,7 +100,7 @@ feature_text: <h2 class="whitetext highlighted">We are serious, it is all about 
   </details>
 </div>
 <div class="sponsor-container">
-  <summary><h2>🏢 Sponsors</h2></summary>
+  <summary><h2>💰 Sponsors</h2></summary>
 
 <div class="logo">
     <a href="https://inspiredco.ai/" target="_blank" rel="noopener"><img alt="Inspire" class="stripe-logo" src="https://static.wixstatic.com/media/a451d8_3a729eeabea14ea3b13122c8120ee405~mv2.png/v1/fill/w_358,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/a451d8_3a729eeabea14ea3b13122c8120ee405~mv2.png"></a>
