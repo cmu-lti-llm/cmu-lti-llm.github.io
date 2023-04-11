@@ -1,7 +1,7 @@
 ---
 title: CMU LTI Seminar on Large Language Models!
 feature_image: "../images/neon-light-ring.jpeg"
-feature_text: We are serious, it is all about LLMs
+feature_text: <h2 class="whitetext highlighted">We are serious, it is all about LLMs</h2>
 ---
 
 <div class="container">
@@ -19,8 +19,8 @@ feature_text: We are serious, it is all about LLMs
 
   <div class="links">
     <a class="button" href="https://lijuncheng16.wixsite.com/my-site">Event Page</a>
-    <a class="button" href="{{ site.baseurl }}/talks">Talk Recordings</a>
-    <a class="button" href="https://lijuncheng16.wixsite.com/my-site/gallery">Gallery</a>
+    <a class="button" href="{{ site.baseurl }}/talks" style="background: #f68140">Talk Recordings</a>
+    <a class="button" href="https://lijuncheng16.wixsite.com/my-site/gallery" style="background: #0d94e7">Gallery</a>
   </div>
 </div>
 
@@ -99,7 +99,20 @@ feature_text: We are serious, it is all about LLMs
   </ul>
   </details>
 </div>
+<div class="sponsor-container">
+  <summary><h2>🏢 Sponsors</h2></summary>
 
+<div class="logo">
+    <a href="https://inspiredco.ai/" target="_blank" rel="noopener"><img alt="Inspire" class="stripe-logo" src="https://static.wixstatic.com/media/a451d8_3a729eeabea14ea3b13122c8120ee405~mv2.png/v1/fill/w_358,h_93,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/a451d8_3a729eeabea14ea3b13122c8120ee405~mv2.png"></a>
+    <a href="https://www.lti.cs.cmu.edu/"><img alt="LTI" src="https://static.wixstatic.com/media/a451d8_86f6d33140cd4823802175a2744238a2~mv2.png/v1/fill/w_391,h_108,al_c,lg_1,q_85,enc_auto/a451d8_86f6d33140cd4823802175a2744238a2~mv2.png"></a>
+    <a href="https://www.duolingo.com/"><img alt="Duolingo" src="https://static.wixstatic.com/media/a451d8_8abf296831704962866e7f2889f6d1e8~mv2.png/v1/fill/w_157,h_157,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/a451d8_8abf296831704962866e7f2889f6d1e8~mv2.png"></a>
+</div>
+<div class="logo">
+    <a href="https://www.svclnk.com/"><img alt="ServiceLink" src="https://static.wixstatic.com/media/62e256_72e7e3961280440c998d710edbd19b25~mv2.png/v1/fill/w_327,h_75,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/logo.png"></a>
+    <a href="https://www.3m.com/3M/en_US/health-information-systems-us/create-time-to-care/clinician-solutions/transcription-solutions/fluency-for-transcription/"><img alt="MModal" src="https://static.wixstatic.com/media/62e256_93d5f192fbbe4153aaeb8409a9dfe969~mv2.jpeg/v1/crop/x_139,y_271,w_2191,h_519/fill/w_346,h_82,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/3M_MModal_horiz_rectangle.jpeg"></a>
+    <a href="https://www.amazon.science/tag/alexa"><img alt="Alexa" src="https://static.wixstatic.com/media/62e256_8a0b874b86bb4c058dd74851d7cde94d~mv2.png/v1/fill/w_219,h_66,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Amazon_Logo_RGB_SQUID.png"></a>
+</div>
+</div>
 ### Hackathon ideas::
 
 ##### Studying data contamination
